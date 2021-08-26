@@ -1,0 +1,7 @@
+{
+  "name": "cache-module",
+  "version": "1.0.0",
+  "description": "cache module",
+  "main": "content.js",
+  "browser": "browser.content.js"
+}
